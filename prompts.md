@@ -108,7 +108,7 @@ result: {
 }
 
 Example 2:
-prompt: [i] any treatment, whether diagnostic, medical, surgical or otherwise, relating to the ovarian cysts and/or its related complications
+prompt: [i] any treatment, whether diagnostic, medical, surgical or otherwise, relating to the ovarian cysts 
         [ii] Other cataract; Other specified disorders of iris and ciliary body
 
 result: { 
